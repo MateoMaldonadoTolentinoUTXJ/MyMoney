@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">MyMoney</string>
+
+    <string name="slogan">Toma el control de tu dinero..</string>
+    <string name="start">Empezar</string>
+
+    <string name="inn">Ingresos</string>
+    <string name="out">Egresos</string>
+    <string name="total">Total</string>
+    <string name="cont"> 0.00</string>
+
+    <string name="add">Ingresar</string>
+    <string name="dis">Retirar</string>
+
+    <string name="con">Concepto</string>
+    <string name="dat">Fecha</string>
+    <string name="lista">Lista de ingresos y egresos</string>
+
+
+</resources>
